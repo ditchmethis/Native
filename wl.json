@@ -1,1 +1,40 @@
-"Users": "blsxx119", "realheavy221", "spideytahj", "nikylchan403", "Guys171x", "JRBOYTHZ"
+{
+  "Users":  [
+  {
+    "id": 5504344179,
+    "name": "HATDOGESST",
+    "displayName": "S2k",
+    "datewhitelisted": "Unknown"
+},
+  {
+    "id": 905783722,
+    "name": "spideytahj",
+    "displayName": "Player",
+    "datewhitelisted": "Unknown"
+},
+  {
+    "id": 905783722,
+    "name": "spideytahj",
+    "displayName": "Player",
+    "datewhitelisted": "Unknown"
+},
+  {
+    "id": 4566976237,
+    "name": "nikylchan403",
+    "displayName": "Nik",
+    "datewhitelisted": "August 20, 2024 | 8:48 PM"
+},
+  {
+    "id": 5491522128,
+    "name": "Guys171x",
+    "displayName": "Guys171x",
+    "datewhitelisted": "September 2, 2024 | 2:11 PM"
+},
+  {
+    "id": 1461844391,
+    "name": "JRBOYTHZ",
+    "displayName": "JrBoy_JetX",
+    "datewhitelisted": "September 5, 2024 | 7:42 PM"
+},
+]
+}
